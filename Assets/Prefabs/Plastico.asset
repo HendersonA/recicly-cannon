@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 194f48d3b738f2e44a9fea59caaa4a5b, type: 3}
+  m_Name: Plastico
+  m_EditorClassIdentifier: 
+  softCoins: 10
+  itemCollectedCount: 0
+  itemCount: 0
+  itemObject: {fileID: 4208727020430827659, guid: ace34dbeef9d9924dbacd95b897b575c, type: 3}
+  itemBullet: {fileID: 4208727020430827659, guid: ddde68a77caaaee4181d205a7e11d268, type: 3}
+  materialEnum: 0
